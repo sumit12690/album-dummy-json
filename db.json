@@ -24,7 +24,7 @@
     },
     {
       id: 2,
-      title:"renu",
+      title: "renu",
       thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMMQhgfkbAlvEB7iotzBeO1lZ6S5CIxJW_pIHfEQt9y1i_1mr4iJYPtJNL5edaLF8Nc8&usqp=CAU",
       owner:"renu",
       email:"renu@gmail.com",
@@ -48,7 +48,7 @@
       id: 3,
       title:"amit",
       thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7m6Iw3R07gneSxsjT8zkLY-HVqcLKqrB_8Lje2f5Z1r46m1rIaCu2ynxA99ytXnmCQE&usqp=CAU",
-      owner:"amit",
+      owner: "amit",
       email:"amit@gmail.com",
       website: "www.amit.com",
       photos: [
